@@ -1,1 +1,2 @@
 # webBot
+This is psuedoCode (:
